@@ -1,6 +1,6 @@
 title: "Sujin Park"
 author: ""
-#email: your-email@domain.com
+email: racom02@g.skku.edu
 description: >
   2023. ⓒ All rights reserved
 
@@ -14,10 +14,10 @@ minima_reboot:
   date_format: "%b %-d, %Y"
   date_format_short: "%b %-d"
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "Home"}
-  - {file: "about.md", title: "About"}
-  - {file: "publications.md", title: "Publications"}
+header_pages:
+  - index.md
+  - about.md
+  - publications.md 
 
 paginate: 5
 
