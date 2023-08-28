@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "home"
 ---
 
 ### Welcome to my personal website!
