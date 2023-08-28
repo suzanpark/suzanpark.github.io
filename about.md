@@ -20,7 +20,7 @@ You can take a look at the details of my research aims below!
 - predicting developmental outcomes
 - experience-dependent neural changes 
 - mental health and well-being
-- positive adaptation
+- environmental effects on the developing brain
 
 
 
