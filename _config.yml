@@ -14,10 +14,10 @@ minima_reboot:
   date_format: "%b %-d, %Y"
   date_format_short: "%b %-d"
 
-navigation:
-  - {file: "index.md"}
-  - {file: "about.md"}
-  - {file: "publications.md"}
+header_pages:
+  - index.md
+  - about.md
+  - publications.md
 
 paginate: 5
 
