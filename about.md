@@ -6,7 +6,7 @@ permalink: /about/
 
 ![profile_img](https://github.com/suzanpark/suzanpark.github.io/assets/143306172/04fea881-bc64-4668-836a-4b195891d142){: width="200" height="200"}
 
-[CV](https://drive.google.com/drive/folders/1NuwGaoBIw9CLI_AjHhzKvPL8VdHKOC06)|[Google Scholar](https://scholar.google.com/citations?user=qS3zgSgAAAAJ&hl=ko&oi=sra)
+[[CV]](https://drive.google.com/drive/folders/1NuwGaoBIw9CLI_AjHhzKvPL8VdHKOC06)   [[Google Scholar]](https://scholar.google.com/citations?user=qS3zgSgAAAAJ&hl=ko&oi=sra)
 
 
 
