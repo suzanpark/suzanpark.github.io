@@ -8,8 +8,6 @@ permalink: /about/
 
 
 [CV](https://drive.google.com/drive/folders/1NuwGaoBIw9CLI_AjHhzKvPL8VdHKOC06)
-
-
 [Google Scholar](https://scholar.google.com/citations?user=qS3zgSgAAAAJ&hl=ko&oi=sra)
 
 
