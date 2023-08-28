@@ -14,10 +14,10 @@ minima_reboot:
   date_format: "%b %-d, %Y"
   date_format_short: "%b %-d"
 
-header_pages:
-- about.md
-- publications.md
-#- github.md
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.md", title: "Home"}
+  - {file: "about.md", title: "About"}
+  - {file: "publications.md", title: "Publications"}
 
 paginate: 5
 
