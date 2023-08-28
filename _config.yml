@@ -2,7 +2,7 @@ title: "Sujin Park"
 author: ""
 email: racom02@g.skku.edu
 description: >
-  2023. ⓒ All rights reserved
+  2023. ⓒ All rights reserved{: .text-right}
 
 plugins:
   - jekyll-seo-tag
