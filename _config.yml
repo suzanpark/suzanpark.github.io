@@ -1,5 +1,5 @@
-title: Sujin Park
-author: Sujin Park
+title: ""
+author: ""
 #email: your-email@domain.com
 description: >
   2023. ⓒ All rights reserved
@@ -18,9 +18,6 @@ header_pages:
 - about.md
 - publications.md
 #- github.md
-
-#footers:
-- {title: Mail, icon: envelope, url: "mailto:racom02@g.skku.edu"}
 
 paginate: 5
 
