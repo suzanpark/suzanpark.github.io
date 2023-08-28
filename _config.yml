@@ -15,9 +15,9 @@ minima_reboot:
   date_format_short: "%b %-d"
 
 navigation:
-  - {file: "index.md", title: "Home"}
-  - {file: "about.md", title: "About"}
-  - {file: "publications.md", title: "Publications"}
+  - {file: "index.md"}
+  - {file: "about.md"}
+  - {file: "publications.md"}
 
 paginate: 5
 
