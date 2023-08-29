@@ -21,6 +21,7 @@ You can take a look at the details of my research aims below!
 - experience-dependent neural changes 
 - mental health and well-being
 - environmental effects on the developing brain
+- socioemotional development
 
 
 
