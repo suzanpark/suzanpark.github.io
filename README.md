@@ -1,3 +1,7 @@
+I tried to follow this... but... [link](https://github.com/m-veloper/jekyll-search)
+
+***
+
 # minima-reboot
 
 [![Gem Version](https://badge.fury.io/rb/minima-reboot.svg)](https://badge.fury.io/rb/minima-reboot)
