@@ -19,6 +19,6 @@ Please note that they can be downloaded for noncommercial uses only and are not 
     <em></em>  
 </p>
 <div align="center">
-  Our paper decorating the cover illustration of December 2022, Issue 6 of Brain Imaging and Behavior!
+  Our paper decorating the cover illustration of [December 2022, Issue 6](https://link.springer.com/journal/11682/volumes-and-issues/16-6) of Brain Imaging and Behavior!
 </div>
 
