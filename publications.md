@@ -19,7 +19,7 @@ Please note that they can be downloaded for noncommercial uses only and are not 
   <img width="200" height="300" src="https://github.com/suzanpark/suzanpark.github.io/assets/143306172/9b56dea6-d9cd-4de9-b7e2-914eb2ed32ac" alt="">
 </figure>
 
-<h6 align="center">Our paper decorating the cover illustration of December 2022, Issue 6 of Brain Imaging and Behavior!</h6>
+<h6 align="center">Our paper decorating the cover illustration of Volume 16, issue 6, December 2022 of Brain Imaging and Behavior!</h6>
 
 
 
