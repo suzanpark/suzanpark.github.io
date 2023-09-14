@@ -1,6 +1,6 @@
 ---
 layout: allposts
-title: Posts
+title: News
 description: Blog posts
 permalink: /posts/
 ---
