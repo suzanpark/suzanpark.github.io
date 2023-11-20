@@ -10,7 +10,9 @@ permalink: /publications/
 - <sup>*</sup> Equal author contribution
 
   
-1. **Park S**, Park D & Kim MJ (2023). Similarity in functional connectome architecture predicts teenage grit. _<span style='color: salmon;'> Social Cognitive and Affective Neuroscience </span>_ [[link](https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsad047/7272592?searchresult=1)]
+1. **Park S**, Park D & Kim MJ (2023). Similarity in functional connectome architecture predicts teenage grit. _<span style='color: salmon;'> Social Cognitive and Affective Neuroscience </span>_ [[link](https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsad047/7272592?searchresult=1)]  
+
+
 1. Yoo C<sup>*</sup>, **Park S**<sup>*</sup> & Kim MJ (2022). Structural connectome-based prediction of trait anxiety. _<span style='color: salmon;'> Brain Imaging and Behavior </span>_ [[link](https://link.springer.com/article/10.1007/s11682-022-00700-2)] **Featured on the journal cover**
 
 
