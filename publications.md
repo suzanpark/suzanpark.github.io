@@ -4,8 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-The articles below are provided to the public for promoting accessible and timely dissemination of academic work. 
-Please note that they can be downloaded for noncommercial uses only and are not allowed to be reposted without permission from the respective copyright holders. 
+
 
 
 - <sup>*</sup> Equal author contribution
