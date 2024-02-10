@@ -18,8 +18,8 @@ You can take a look at the details of my research aims below!
 
 ### Research Interest
 - predicting developmental outcomes
-- experience-dependent neural changes (e.g., early-life stress and family environment)
-- mental health and well-being
+- neuroplasticity
+- mental health and clinical disorders
 - environmental effects on the developing brain
 - socioemotional development
 - translations of scientific research into real-life and policies
