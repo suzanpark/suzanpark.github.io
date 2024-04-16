@@ -21,7 +21,7 @@ You can take a look at the details of my research aims below!
 - neuroplasticity
 - mental health and clinical disorders
 - environmental effects on the developing brain
-- socioemotional development
+- finding biomarkers
 - translations of scientific research into real-life and policies
 
 
