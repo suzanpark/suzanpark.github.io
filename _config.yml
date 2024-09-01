@@ -1,8 +1,8 @@
 title: "Sujin Park"
 author: ""
-email: racom02@g.skku.edu
+email: sup031@ucsd.edu
 description: >
-  2023. Sujin Park ⓒ All rights reserved
+  Using the [Minima Reboot](http://jekyllthemes.org/themes/minima-reboot/) theme for Jekyll.
   
 plugins:
   - jekyll-seo-tag
